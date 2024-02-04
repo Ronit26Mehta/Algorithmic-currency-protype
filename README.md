@@ -47,16 +47,19 @@ The project's feasibility is anchored in the integration of proven technologies,
 ## Prototype design 📊🖼️
 
 ### Start Page
-![Start Page](<WhatsApp Image 2024-02-04 at 06.07.28_5063e24a.jpg>)
+![WhatsApp Image 2024-02-04 at 06 07 28_d916555f](https://github.com/Ronit26Mehta/Algorithmic-currency-protype/assets/109467924/9bda5f1a-f327-4d44-a5c7-1b849ade6e2a)
+
 
 ### Sign Up
-![Sign Up](<WhatsApp Image 2024-02-04 at 06.07.57_eea5e330.jpg>)
+![WhatsApp Image 2024-02-04 at 06 07 57_007621b1](https://github.com/Ronit26Mehta/Algorithmic-currency-protype/assets/109467924/bd13e507-066a-4770-a386-31742b21177b)
+
 
 ### Log In
-![Log In](<WhatsApp Image 2024-02-04 at 06.09.06_dc2dc954.jpg>)
+![WhatsApp Image 2024-02-04 at 06 09 06_07ff3b47](https://github.com/Ronit26Mehta/Algorithmic-currency-protype/assets/109467924/38eb1bdd-93ef-4137-9938-d41d08fdfe61)
 
 ### Home Page
-![Home Page](<WhatsApp Image 2024-02-04 at 06.09.34_939ef495.jpg>)
+![WhatsApp Image 2024-02-04 at 06 09 34_39e072f1](https://github.com/Ronit26Mehta/Algorithmic-currency-protype/assets/109467924/da31f279-3c4f-4afb-81bb-a7e601015e34)
+
 
 ## Conclusion 🌈🚀
 
