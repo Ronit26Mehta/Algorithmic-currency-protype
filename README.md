@@ -64,3 +64,11 @@ The project's feasibility is anchored in the integration of proven technologies,
 ## Conclusion 🌈🚀
 
 Step into a world of digital currencies where our groundbreaking project introduces an extraordinary algorithmic currency. This currency adapts dynamically to real-time changes, shaped by collective intelligence and secured through blockchain. Our project envisions a future where users actively influence and refine the currency, transforming traditional financial roles. It's not just innovation; it's a journey toward a more engaging and evolved financial ecosystem.
+
+
+## video explainning ml model backing the currency
+
+
+https://github.com/Ronit26Mehta/Algorithmic-currency-protype/assets/109467924/cdf8e2f5-aecb-4482-874e-2e415443967d
+
+
