@@ -70,5 +70,5 @@ Step into a world of digital currencies where our groundbreaking project introdu
 
 
 https://github.com/Ronit26Mehta/Algorithmic-currency-protype/assets/109467924/cdf8e2f5-aecb-4482-874e-2e415443967d
-
+.
 
